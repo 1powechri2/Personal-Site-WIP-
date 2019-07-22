@@ -1,0 +1,5 @@
+#personalStatement {
+  opacity: 0;
+  font-size: 50px;
+  transition: 10s;
+}

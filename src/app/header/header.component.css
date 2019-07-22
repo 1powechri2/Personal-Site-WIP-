@@ -1,0 +1,14 @@
+#header-div {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0px 10px 10px #38CCCD;
+  border-width: 5px;
+  background-color: black;
+}
+
+#header-div span {
+  font-size: 150px;
+  font-family: 'Major Mono Display', monospace;
+  font-family: 'Monofett', cursive;
+  color: #38CCCD;
+}
