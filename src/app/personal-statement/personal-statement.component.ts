@@ -10,7 +10,6 @@ export class PersonalStatementComponent implements OnInit {
 
   fadeStatement(): void {
     var stmnt = document.getElementById('personalStatement');
-
     stmnt.style.opacity = '1';
   }
 
