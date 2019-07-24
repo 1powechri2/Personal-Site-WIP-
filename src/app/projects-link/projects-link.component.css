@@ -1,3 +1,10 @@
+#link-statement {
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Major Mono Display', monospace;
+}
+
 #link-div {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -20,23 +27,23 @@
 #link2 {
   grid-column: 2 / span 1;
   align-self: top;
-  transition: 3s;
+  transition: 1s;
 }
 
 #link3 {
   grid-column: 3 / span 1;
   align-self: left top;
-  transition: 3s;
+  transition: 1s;
 }
 
 #link4 {
   grid-column: 4 / span 1;
   align-self: top;
-  transition: 3s;
+  transition: 1s;
 }
 
 #link5 {
   grid-column: 5 / span 1;
   align-self: top;
-  transition: 3s;
+  transition: 1s;
 }

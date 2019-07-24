@@ -3,12 +3,12 @@
   background-image: url("../../assets/chris.png");
   background-repeat: no-repeat;
   background-position: 75% 75%;
-  text-align: center;
+  padding-top: 10px;
 }
 
 #personalStatement {
   opacity: 0;
-  font-size: 50px;
   transition: 10s;
+  font-size: 50px;
   font-family: 'Major Mono Display', monospace;
 }
